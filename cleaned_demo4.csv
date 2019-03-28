@@ -1,0 +1,293 @@
+A1,A2,A3,A4,A5,A6,A7,A8,A9,A10,age,gender,ethnicity,jaundice,autism,country,result,Class_ASD
+1,1,0,0,1,1,0,1,0,0,6.0,1,Others,0,0,Jordan,5.0,0
+1,1,0,0,1,1,0,1,0,0,6.0,1,'Middle Eastern ',0,0,Jordan,5.0,0
+1,1,0,0,0,1,1,1,0,0,6.0,1,?,0,0,Jordan,5.0,0
+0,1,0,0,1,1,0,0,0,1,5.0,0,?,1,0,Jordan,4.0,0
+1,1,1,1,1,1,1,1,1,1,5.0,1,Others,1,0,'United States',10.0,1
+0,0,1,0,1,1,0,1,0,1,4.0,1,?,0,1,Egypt,5.0,0
+1,0,1,1,1,1,0,1,0,1,5.0,1,White-European,0,0,'United Kingdom',7.0,1
+1,1,1,1,1,1,1,1,0,0,5.0,0,'Middle Eastern ',0,0,Bahrain,8.0,1
+1,1,1,1,1,1,1,0,0,0,11.0,0,'Middle Eastern ',0,0,Bahrain,7.0,1
+0,0,1,1,1,0,1,1,0,0,11.0,0,?,0,1,Austria,5.0,0
+1,0,0,0,1,1,1,1,1,1,10.0,1,White-European,1,0,'United Kingdom',7.0,1
+0,1,0,0,1,0,0,0,0,1,5.0,0,?,0,0,Kuwait,3.0,0
+0,1,1,1,1,1,1,1,1,1,4.0,1,White-European,1,0,'United States',9.0,1
+1,0,0,0,0,0,1,0,0,0,4.0,0,Black,0,0,'United Arab Emirates',2.0,0
+1,1,1,1,1,1,1,1,1,1,6.0,1,White-European,0,0,Europe,10.0,1
+1,1,1,1,1,1,1,1,1,1,8.0,1,White-European,0,0,Malta,10.0,1
+1,1,1,1,1,1,0,1,1,1,4.0,1,'South Asian',0,0,Bulgaria,9.0,1
+0,0,0,0,0,0,1,0,0,0,7.0,1,Others,0,0,'United States',1.0,0
+1,0,1,1,1,0,1,1,1,1,11.0,1,White-European,0,1,'United States',8.0,1
+1,1,1,1,1,1,0,1,0,1,5.0,1,?,0,0,Egypt,8.0,1
+1,1,1,1,1,1,1,0,1,0,5.0,1,White-European,1,0,'South Africa',8.0,1
+0,0,1,1,0,1,0,1,1,0,9.0,0,?,0,0,Egypt,5.0,0
+1,1,0,1,0,0,0,0,0,0,4.0,1,Asian,0,0,India,3.0,0
+1,0,1,1,0,1,0,0,1,0,6.0,0,'South Asian',0,0,India,5.0,0
+1,0,1,1,1,1,0,1,1,1,11.0,1,?,0,0,Egypt,8.0,1
+0,0,1,1,1,0,1,1,1,0,6.0,1,White-European,0,1,'United Kingdom',6.0,0
+1,0,1,0,1,1,0,0,1,1,6.0,0,'Middle Eastern ',0,0,Afghanistan,6.0,0
+1,1,1,1,1,1,1,1,1,1,5.0,1,White-European,1,0,'United States',10.0,1
+0,1,1,0,0,0,1,1,0,1,6.0,1,?,0,1,'United Arab Emirates',5.0,0
+0,0,1,0,1,0,1,0,0,0,4.0,0,Others,1,1,Georgia,3.0,0
+1,1,1,1,1,1,1,1,1,1,11.0,1,White-European,0,0,'United Kingdom',10.0,1
+0,0,1,0,0,1,0,0,1,1,6.0,1,Pasifika,1,0,'New Zealand',4.0,0
+1,0,0,1,0,1,1,1,1,1,6.354166666666668,1,?,0,0,Egypt,7.0,1
+1,0,0,0,1,1,0,1,0,1,5.0,1,'South Asian',1,0,India,5.0,0
+1,0,0,0,1,1,0,0,1,1,6.0,1,'South Asian',1,0,India,5.0,0
+0,1,0,0,0,0,0,0,0,0,7.0,0,'Middle Eastern ',1,0,Syria,1.0,0
+0,1,0,0,1,0,0,1,0,0,4.0,0,?,0,0,Syria,3.0,0
+1,1,0,0,0,0,0,0,0,0,7.0,1,Asian,0,0,'New Zealand',2.0,0
+1,1,1,1,1,1,1,1,1,1,4.0,1,White-European,1,0,'United Kingdom',10.0,1
+0,1,1,1,1,1,1,1,0,1,4.0,1,Asian,0,0,India,8.0,1
+0,0,1,1,1,1,0,1,0,1,5.0,1,?,1,0,Jordan,6.0,0
+0,1,0,0,0,0,0,0,0,0,4.0,1,'Middle Eastern ',0,0,Afghanistan,1.0,0
+1,0,0,0,1,0,1,0,0,1,6.0,0,'Middle Eastern ',0,0,Jordan,4.0,0
+1,0,1,1,1,1,0,1,1,1,4.0,0,?,0,0,Jordan,8.0,1
+0,0,0,1,0,0,1,0,0,0,10.0,1,'Middle Eastern ',0,0,Jordan,2.0,0
+0,1,1,0,1,1,0,0,0,1,4.0,0,'Middle Eastern ',1,0,Iraq,5.0,0
+0,1,1,0,1,1,0,0,0,0,4.0,0,'Middle Eastern ',1,0,Iraq,4.0,0
+1,1,1,0,1,0,1,1,0,1,6.0,1,?,0,0,Jordan,7.0,1
+1,0,1,1,1,1,0,0,1,1,6.0,0,White-European,1,0,'New Zealand',7.0,1
+0,1,0,0,1,0,0,0,0,0,7.0,1,'Middle Eastern ',0,1,Jordan,2.0,0
+0,1,0,0,1,0,1,0,0,1,7.0,1,?,1,0,Jordan,4.0,0
+0,0,1,0,1,1,1,0,1,1,4.0,1,Asian,0,0,India,6.0,0
+1,0,0,1,0,1,0,1,1,1,6.0,1,?,0,0,Jordan,6.0,0
+1,1,1,1,1,1,1,0,1,1,7.0,1,White-European,1,0,'United States',9.0,1
+1,0,1,1,0,1,0,0,0,1,5.0,1,?,0,0,'United Arab Emirates',5.0,0
+0,0,1,0,1,0,0,0,0,0,5.0,1,White-European,0,0,Australia,2.0,0
+0,0,1,0,0,1,0,0,0,0,6.0,1,?,0,0,'Saudi Arabia',2.0,0
+1,0,1,1,1,1,1,1,1,1,4.0,0,White-European,0,0,Georgia,9.0,1
+1,0,1,1,1,1,1,1,1,0,9.0,0,'Middle Eastern ',0,0,Armenia,8.0,1
+1,0,1,1,1,1,0,0,1,1,4.0,1,Hispanic,0,1,'United States',7.0,1
+1,0,1,0,1,0,0,0,0,0,4.0,1,Turkish,0,0,Turkey,3.0,0
+1,0,1,1,1,1,1,1,1,1,9.0,1,White-European,0,0,'United States',9.0,1
+1,1,1,0,1,1,0,0,0,1,4.0,0,White-European,1,0,Australia,6.0,0
+1,1,1,0,1,1,1,1,1,1,9.0,1,Asian,1,0,Pakistan,9.0,1
+1,0,1,1,0,0,0,1,0,1,8.0,1,'Middle Eastern ',0,0,'United States',5.0,0
+0,0,1,0,0,0,0,0,0,0,6.354166666666668,1,'Middle Eastern ',0,0,Jordan,1.0,0
+1,0,0,0,1,0,0,0,0,1,4.0,1,White-European,0,0,'United Kingdom',3.0,0
+1,0,0,0,1,0,1,0,0,1,4.0,1,White-European,0,0,'United Kingdom',4.0,0
+0,0,1,0,1,1,1,0,1,0,4.0,0,?,0,1,Pakistan,5.0,0
+1,0,1,1,1,1,1,1,1,1,4.0,1,White-European,0,1,Canada,9.0,1
+1,0,1,0,1,0,1,0,0,1,7.0,1,Asian,0,0,Oman,5.0,0
+0,1,0,0,1,0,1,0,0,1,7.0,0,White-European,1,0,'United Kingdom',4.0,0
+1,0,1,1,1,1,0,1,0,1,6.0,1,'South Asian',0,0,India,7.0,1
+1,0,1,1,1,1,0,1,1,1,5.0,0,'Middle Eastern ',0,0,Canada,8.0,1
+1,0,1,1,1,1,0,0,1,1,8.0,0,'Middle Eastern ',0,1,Canada,7.0,1
+0,0,0,1,1,1,1,1,1,0,5.0,1,White-European,0,0,'United Kingdom',6.0,0
+1,1,1,1,0,1,1,1,1,1,11.0,0,Others,0,0,Canada,9.0,1
+1,0,0,0,1,0,1,0,0,1,8.0,1,White-European,1,0,'New Zealand',4.0,0
+1,1,1,1,1,1,1,0,1,1,4.0,1,Latino,0,1,Brazil,9.0,1
+0,1,1,1,0,1,0,1,1,0,7.0,1,White-European,1,0,'New Zealand',6.0,0
+1,0,0,1,0,1,0,0,0,0,4.0,1,White-European,0,0,'New Zealand',3.0,0
+0,1,1,1,1,1,1,1,1,1,7.0,1,White-European,1,1,'New Zealand',9.0,1
+1,0,1,1,1,1,1,1,0,1,8.0,1,White-European,0,0,'United States',8.0,1
+0,1,1,0,1,1,0,0,0,1,5.0,1,Asian,0,0,'South Korea',5.0,0
+0,0,1,0,1,1,1,0,1,1,4.0,1,Asian,0,0,India,6.0,0
+1,1,1,1,1,1,1,0,1,1,11.0,0,White-European,0,0,'United Kingdom',9.0,1
+1,1,1,1,0,0,1,0,1,1,11.0,0,White-European,0,0,'United Kingdom',7.0,1
+1,1,1,1,1,1,1,1,1,1,4.0,1,White-European,0,0,'South Africa',10.0,1
+1,1,1,1,0,1,0,0,0,0,5.0,1,Latino,0,1,'Costa Rica',5.0,0
+0,1,1,1,1,1,1,1,1,1,6.0,1,Hispanic,0,0,'United States',9.0,1
+1,0,1,1,1,1,1,0,1,1,4.0,0,White-European,0,0,Australia,8.0,1
+1,0,0,1,1,1,1,0,0,0,11.0,0,White-European,1,1,'United Kingdom',5.0,0
+0,0,1,1,1,1,1,1,1,1,5.0,1,Asian,0,0,India,8.0,1
+0,0,1,1,1,1,1,1,1,1,5.0,1,Asian,0,0,India,8.0,1
+1,1,1,1,1,1,1,1,1,1,6.0,1,Latino,0,0,'United States',10.0,1
+1,0,1,0,1,1,1,1,0,1,7.0,1,Hispanic,0,0,'United States',7.0,1
+1,1,1,1,1,1,0,1,0,1,11.0,1,White-European,0,0,Sweden,8.0,1
+1,1,1,1,1,0,1,0,1,1,4.0,1,White-European,0,0,Australia,8.0,1
+1,1,1,0,1,1,1,0,1,1,4.0,1,White-European,0,1,'United States',8.0,1
+0,0,1,1,0,0,0,0,0,0,7.0,1,White-European,0,1,'United States',2.0,0
+1,1,0,1,0,1,1,0,1,0,11.0,0,White-European,1,1,'United Kingdom',6.0,0
+1,1,1,1,0,1,1,0,0,1,6.0,0,Asian,0,0,Philippines,7.0,1
+0,0,0,0,0,0,1,0,1,0,9.0,0,White-European,0,0,'United Kingdom',2.0,0
+0,1,0,1,0,1,0,0,1,1,10.0,1,Others,0,0,'United States',5.0,0
+0,0,0,0,1,1,1,0,0,1,4.0,1,Asian,0,1,Malaysia,4.0,0
+1,1,1,1,1,1,0,1,0,1,4.0,1,Asian,1,0,Philippines,8.0,1
+1,1,1,1,1,1,0,0,1,1,10.0,1,White-European,1,0,'United Kingdom',8.0,1
+1,0,0,0,1,0,0,0,0,1,4.0,0,White-European,1,1,'United Kingdom',3.0,0
+0,1,0,0,0,1,1,1,0,0,11.0,1,Asian,0,0,Argentina,4.0,0
+0,0,1,0,1,0,0,0,0,1,7.0,1,Asian,0,0,Japan,3.0,0
+0,1,1,1,1,0,1,1,0,1,5.0,1,?,0,0,Syria,7.0,1
+1,1,0,0,0,0,0,0,0,1,4.0,0,White-European,0,0,'United States',3.0,0
+0,0,1,1,1,1,0,1,1,1,8.0,1,White-European,0,0,'United States',7.0,1
+1,1,1,1,1,1,1,1,1,0,4.0,1,White-European,0,0,Australia,9.0,1
+1,0,1,0,1,1,0,1,0,1,4.0,1,'South Asian',0,0,India,6.0,0
+1,1,1,1,1,1,1,1,1,1,11.0,1,Asian,1,0,India,10.0,1
+1,1,1,1,1,1,1,0,1,1,10.0,0,Asian,0,0,'United States',9.0,1
+1,1,0,1,0,1,0,0,1,1,6.0,0,White-European,0,0,'United States',6.0,0
+0,0,0,1,1,1,1,1,1,0,4.0,1,Asian,0,0,Bangladesh,6.0,0
+0,1,1,0,1,0,0,0,0,1,4.0,1,Asian,0,1,Bangladesh,4.0,0
+0,1,1,1,0,1,0,1,1,1,4.0,1,Asian,0,0,Bangladesh,7.0,1
+0,0,1,1,0,0,1,1,1,0,10.0,1,White-European,0,0,'United States',5.0,0
+1,1,1,1,1,1,1,1,1,1,7.0,1,White-European,0,0,'United Kingdom',10.0,1
+0,1,1,0,0,1,1,1,0,0,4.0,1,?,1,0,Qatar,5.0,0
+1,1,1,0,0,1,1,1,1,1,6.0,0,White-European,1,0,Ireland,8.0,1
+0,1,1,0,1,1,1,1,1,1,5.0,1,Asian,0,0,India,8.0,1
+1,1,1,1,0,1,0,1,0,1,6.354166666666668,1,?,1,0,Jordan,7.0,1
+0,0,1,0,1,1,1,1,1,1,4.0,0,Asian,1,0,'United Kingdom',7.0,1
+1,0,1,0,1,1,1,1,0,0,9.0,1,Asian,0,0,India,6.0,0
+1,0,1,1,0,1,1,1,0,1,4.0,0,White-European,1,0,'United States',7.0,1
+1,1,1,1,1,1,1,0,1,1,10.0,1,White-European,0,0,'New Zealand',9.0,1
+1,1,0,0,0,0,1,0,0,1,9.0,1,White-European,0,0,'New Zealand',4.0,0
+0,1,1,1,1,1,0,0,0,1,5.0,1,White-European,1,1,'United Kingdom',6.0,0
+1,1,1,0,0,0,0,0,1,1,4.0,0,Black,0,0,Canada,5.0,0
+1,1,1,1,1,1,0,1,1,1,4.0,1,White-European,0,1,'United Kingdom',9.0,1
+0,1,1,1,1,0,0,0,1,0,6.0,1,White-European,0,0,Romania,5.0,0
+1,1,1,0,1,0,1,0,1,1,4.0,0,White-European,1,0,'United Kingdom',7.0,1
+0,0,0,0,0,0,0,0,0,0,5.0,0,Hispanic,0,0,'United States',0.0,0
+0,1,1,0,1,1,1,1,0,0,6.354166666666668,1,?,1,0,Qatar,6.0,0
+1,1,1,1,1,1,1,1,1,1,9.0,1,White-European,1,1,'United Kingdom',10.0,1
+1,0,1,1,1,0,1,1,1,1,7.0,0,White-European,0,0,Australia,8.0,1
+0,1,1,0,0,1,1,1,0,1,10.0,0,White-European,0,0,Netherlands,6.0,0
+1,0,1,1,1,1,0,1,0,1,4.0,1,'South Asian',0,0,India,7.0,1
+1,0,1,1,0,1,1,1,0,1,4.0,1,Asian,0,0,India,7.0,1
+1,1,0,1,1,1,1,0,0,0,7.0,0,White-European,0,0,'United Kingdom',6.0,0
+1,1,1,1,1,1,1,0,1,1,4.0,1,Black,1,0,'United States',9.0,1
+0,1,1,0,1,0,1,0,0,1,4.0,1,?,1,0,Lebanon,5.0,0
+1,1,1,1,1,1,1,0,1,1,10.0,1,White-European,0,0,Germany,9.0,1
+0,0,1,0,1,1,0,1,1,1,4.0,1,Asian,0,0,India,6.0,0
+0,0,0,0,1,1,1,0,0,0,4.0,1,?,0,0,Latvia,3.0,0
+1,1,1,1,1,1,0,0,0,1,4.0,1,'South Asian',0,1,'Saudi Arabia',7.0,1
+1,0,1,0,1,1,0,1,1,1,4.0,1,Black,0,1,'United States',7.0,1
+0,1,1,0,0,0,1,1,1,1,7.0,1,White-European,1,0,'United States',6.0,0
+1,1,1,1,1,1,1,0,1,1,4.0,1,White-European,0,0,'United States',9.0,1
+1,1,1,1,1,0,1,0,1,1,5.0,0,White-European,0,0,'New Zealand',8.0,1
+1,1,1,1,1,1,1,1,0,1,6.0,1,Others,1,0,'United Kingdom',9.0,1
+0,1,0,0,0,1,1,1,1,1,6.0,0,Asian,0,0,'United Kingdom',6.0,0
+1,1,0,0,1,1,1,1,1,1,6.0,0,White-European,0,1,'United Kingdom',8.0,1
+0,1,0,1,1,1,1,0,1,1,9.0,1,White-European,0,1,'United Kingdom',7.0,1
+1,1,1,1,1,1,1,1,1,1,8.0,1,White-European,0,0,'United Kingdom',10.0,1
+1,0,1,1,1,1,0,1,0,1,11.0,1,?,0,0,Jordan,7.0,1
+1,0,0,0,1,1,1,1,1,1,9.0,1,White-European,0,0,Australia,7.0,1
+0,1,0,0,0,1,0,0,0,1,9.0,0,White-European,0,1,'United Kingdom',3.0,0
+1,0,0,1,1,1,1,0,1,1,7.0,1,Black,0,0,'United States',7.0,1
+0,0,1,0,0,1,1,0,0,1,4.0,1,Asian,0,0,India,4.0,0
+1,0,0,0,1,1,1,0,0,1,10.0,0,Others,0,0,Australia,5.0,0
+0,0,0,0,1,0,1,1,0,1,8.0,1,'Middle Eastern ',0,0,'United Arab Emirates',4.0,0
+1,0,1,1,1,1,1,1,0,1,6.0,1,Others,0,0,Australia,8.0,1
+0,1,1,1,1,1,0,1,1,1,8.0,1,?,1,0,Russia,8.0,1
+1,0,1,1,1,1,1,1,1,1,11.0,0,White-European,0,0,Austria,9.0,1
+1,1,1,0,1,0,1,0,0,0,5.0,0,White-European,0,0,Italy,5.0,0
+0,0,1,0,1,0,1,0,0,1,4.0,0,White-European,0,1,Australia,4.0,0
+1,1,1,1,1,1,1,1,1,1,11.0,1,White-European,0,0,Australia,10.0,1
+0,0,1,1,1,1,0,0,0,1,11.0,0,Others,1,0,'United Kingdom',5.0,0
+0,1,1,0,0,1,1,1,0,0,4.0,1,?,1,0,Qatar,5.0,0
+1,0,1,0,1,1,0,0,0,0,8.0,1,White-European,0,0,'United Kingdom',4.0,0
+1,0,1,1,1,0,0,0,0,0,8.0,1,White-European,0,0,'United Kingdom',4.0,0
+1,1,1,1,1,1,1,1,1,1,9.0,1,White-European,0,0,'United Kingdom',10.0,1
+0,0,0,1,0,1,0,0,1,1,4.0,1,Asian,0,0,Bangladesh,4.0,0
+0,0,1,0,1,1,1,1,1,1,4.0,1,Asian,0,0,Bangladesh,7.0,1
+1,1,1,1,1,1,0,0,1,1,4.0,0,?,1,0,China,8.0,1
+0,1,1,0,1,0,1,0,0,0,4.0,0,?,0,0,Pakistan,4.0,0
+1,0,0,1,1,1,1,1,1,1,11.0,1,Hispanic,0,0,'United States',8.0,1
+0,1,1,1,0,1,0,0,0,1,10.0,0,Asian,0,0,Australia,5.0,0
+1,0,1,1,1,1,0,1,0,1,11.0,1,Asian,0,0,India,7.0,1
+1,0,1,0,1,0,1,0,1,1,4.0,1,Black,1,0,'United Kingdom',6.0,0
+1,1,1,0,1,0,1,1,1,1,4.0,1,White-European,1,0,'United States',8.0,1
+1,1,1,1,1,1,1,1,1,1,6.0,0,Black,0,0,Nigeria,10.0,1
+0,0,1,1,1,1,1,1,0,0,8.0,1,White-European,0,0,'United Kingdom',6.0,0
+1,1,1,1,1,0,1,1,1,1,4.0,0,White-European,0,1,Australia,9.0,1
+1,1,1,0,1,1,0,1,0,1,4.0,1,?,0,0,Lebanon,7.0,1
+1,1,0,1,1,1,1,0,0,1,8.0,1,White-European,0,0,Armenia,7.0,1
+1,1,1,0,1,1,0,0,1,1,11.0,1,Hispanic,0,0,'United States',7.0,1
+1,0,1,0,1,1,1,0,1,0,4.0,0,White-European,1,1,'United Kingdom',6.0,0
+1,1,0,0,1,1,1,0,0,0,5.0,1,?,0,0,Iraq,5.0,0
+1,1,1,0,0,0,0,0,0,0,4.0,1,White-European,0,0,'U.S. Outlying Islands',3.0,0
+1,1,1,1,1,1,0,0,1,1,8.0,1,Black,0,0,Australia,8.0,1
+0,0,1,0,1,1,1,1,1,1,4.0,1,Pasifika,0,0,'New Zealand',7.0,1
+0,1,1,1,1,1,1,1,1,1,4.0,1,'South Asian',0,0,India,9.0,1
+1,0,0,0,1,0,1,0,0,1,9.0,1,White-European,0,1,Australia,4.0,0
+1,0,0,0,1,0,1,0,0,1,9.0,1,White-European,1,1,Australia,4.0,0
+1,1,1,1,1,1,1,0,1,0,4.0,0,White-European,0,1,'United Kingdom',8.0,1
+0,0,1,0,1,0,1,0,0,1,5.0,1,'South Asian',0,0,India,4.0,0
+1,1,1,1,1,1,0,0,0,1,7.0,0,Asian,1,0,India,7.0,1
+1,0,1,1,1,0,1,1,1,1,4.0,0,White-European,1,0,'United Kingdom',8.0,1
+1,1,1,1,0,1,0,0,0,0,5.0,0,White-European,0,0,'United Kingdom',5.0,0
+1,1,1,1,1,1,0,1,1,0,6.0,1,Asian,0,0,Nepal,8.0,1
+1,1,1,1,0,1,1,1,1,1,8.0,1,White-European,0,0,'United Kingdom',9.0,1
+1,0,0,0,1,0,0,0,0,1,4.0,1,Asian,0,0,Bangladesh,3.0,0
+1,0,1,1,1,1,0,1,0,0,5.0,1,Latino,0,1,Mexico,6.0,0
+1,0,1,1,1,1,0,1,0,1,5.0,1,Latino,0,1,Mexico,7.0,1
+1,0,1,0,1,0,1,0,1,1,6.0,1,White-European,1,0,'United States',6.0,0
+0,1,1,0,1,1,0,0,0,1,4.0,1,?,1,0,Malaysia,5.0,0
+0,0,1,0,1,1,1,0,1,1,8.0,1,White-European,0,0,'United Kingdom',6.0,0
+1,0,1,1,0,1,0,1,1,0,5.0,1,'South Asian',0,0,India,6.0,0
+1,1,1,1,1,1,1,1,1,1,4.0,0,Asian,0,1,'United States',10.0,1
+1,0,1,1,1,1,1,1,1,0,6.0,1,White-European,0,0,Australia,8.0,1
+0,0,0,0,0,0,0,0,0,1,11.0,1,Turkish,0,1,Turkey,1.0,0
+0,0,1,0,0,0,1,0,1,0,6.0,1,Others,0,0,'United Kingdom',3.0,0
+1,0,1,1,1,1,1,1,1,1,4.0,0,Hispanic,0,0,'United States',9.0,1
+1,1,1,1,1,1,1,1,1,1,8.0,1,White-European,0,0,'United States',10.0,1
+1,1,1,1,1,1,1,0,0,1,4.0,1,White-European,0,1,'United States',8.0,1
+1,1,1,1,1,0,1,1,0,0,4.0,1,White-European,0,0,'United States',7.0,1
+1,1,1,1,1,1,0,0,1,1,6.0,1,White-European,0,0,'United States',8.0,1
+1,0,1,1,1,0,0,0,0,0,8.0,1,White-European,1,0,Canada,4.0,0
+1,1,1,1,1,1,1,1,1,1,9.0,1,Black,1,0,'United Kingdom',10.0,1
+0,0,0,0,1,1,0,1,0,1,8.0,0,'South Asian',0,0,India,4.0,0
+0,0,1,0,1,1,1,1,1,1,5.0,1,'South Asian',0,0,India,7.0,1
+1,0,0,0,1,0,1,1,0,0,5.0,1,'Middle Eastern ',0,0,Jordan,4.0,0
+1,1,1,1,0,1,0,1,1,1,4.0,1,Asian,1,0,'Isle of Man',8.0,1
+1,0,0,1,1,1,1,1,1,1,10.0,1,White-European,0,0,'United States',8.0,1
+0,1,1,0,0,1,1,0,0,1,4.0,1,?,1,0,Libya,5.0,0
+0,1,1,1,1,1,1,0,0,1,4.0,1,?,1,0,Libya,7.0,1
+0,1,1,1,1,1,0,1,1,1,5.0,1,?,0,0,Russia,8.0,1
+0,1,1,0,1,1,1,0,0,0,4.0,1,Others,1,0,Libya,5.0,0
+0,0,1,1,1,1,0,1,0,1,5.0,1,?,0,0,Russia,6.0,0
+1,1,1,1,1,1,1,0,1,1,7.0,0,Asian,0,0,Philippines,9.0,1
+0,1,1,0,0,1,0,0,1,1,11.0,0,Latino,1,0,Philippines,5.0,0
+1,0,0,1,0,1,0,1,1,0,11.0,1,Asian,0,0,India,5.0,0
+1,0,0,1,1,1,0,0,0,1,11.0,0,White-European,0,1,Australia,5.0,0
+1,1,1,1,0,0,1,0,1,0,9.0,1,'South Asian',0,0,'New Zealand',6.0,0
+1,0,1,0,1,1,1,0,0,1,6.0,1,'South Asian',1,0,India,6.0,0
+0,1,0,0,0,0,1,0,0,1,6.0,1,?,1,0,'Saudi Arabia',3.0,0
+1,1,0,0,0,0,1,0,0,0,9.0,0,?,1,0,'Saudi Arabia',3.0,0
+0,1,1,0,1,1,0,1,0,1,7.0,1,?,1,0,Jordan,6.0,0
+1,1,1,0,0,1,0,1,0,1,5.0,1,'Middle Eastern ',0,0,Jordan,6.0,0
+1,1,1,0,1,0,0,0,0,0,5.0,1,'Middle Eastern ',1,0,'United Arab Emirates',4.0,0
+0,0,0,0,0,0,1,0,0,0,10.0,1,'Middle Eastern ',0,1,'United Arab Emirates',1.0,0
+0,0,1,0,0,0,1,0,0,1,7.0,1,'Middle Eastern ',0,0,Jordan,3.0,0
+0,1,0,1,1,0,1,1,0,1,9.0,1,?,1,0,Egypt,6.0,0
+0,1,0,1,1,1,1,1,0,1,7.0,1,'Middle Eastern ',1,0,Egypt,7.0,1
+0,1,1,1,1,1,1,1,0,1,7.0,1,?,1,0,Egypt,8.0,1
+1,0,1,0,1,1,1,1,0,1,7.0,1,'Middle Eastern ',1,0,Jordan,7.0,1
+1,0,1,1,1,1,1,1,0,1,9.0,0,'Middle Eastern ',0,0,Egypt,8.0,1
+1,1,1,0,0,1,0,0,0,1,5.0,1,'Middle Eastern ',1,0,'United Arab Emirates',5.0,0
+1,1,1,0,1,1,0,0,0,0,4.0,1,'South Asian',0,0,India,5.0,0
+0,0,0,1,1,1,0,0,0,1,5.0,1,Asian,0,1,India,4.0,0
+1,1,1,1,1,1,1,1,1,1,4.0,0,'South Asian',0,0,Armenia,10.0,1
+1,0,0,0,1,0,1,0,0,1,5.0,1,'South Asian',0,0,India,4.0,0
+1,0,1,1,1,1,1,1,0,1,5.0,1,Black,0,0,'United States',8.0,1
+1,1,1,1,0,1,0,0,0,1,4.0,1,White-European,0,0,Italy,6.0,0
+1,1,0,0,1,0,1,1,0,0,6.0,1,Asian,0,0,India,5.0,0
+1,1,1,1,1,1,1,1,1,1,6.0,0,Black,0,0,Canada,10.0,1
+0,1,1,0,0,1,1,0,1,1,5.0,1,Asian,0,0,India,6.0,0
+1,0,1,1,1,1,1,0,1,1,11.0,1,White-European,0,0,'United Kingdom',8.0,1
+1,1,1,1,0,1,0,1,1,1,10.0,1,Black,1,0,India,8.0,1
+1,1,0,0,1,1,0,0,0,1,4.0,1,'South Asian',0,0,India,5.0,0
+1,0,1,1,1,1,1,1,1,1,5.0,1,Others,0,0,'United Kingdom',9.0,1
+1,0,1,0,1,1,1,0,1,1,10.0,1,?,1,0,Pakistan,7.0,1
+1,0,1,0,0,0,1,1,0,0,9.0,1,'Middle Eastern ',1,0,'New Zealand',4.0,0
+0,1,1,1,1,1,0,1,0,1,4.0,1,Asian,0,0,India,7.0,1
+1,0,1,0,0,0,0,0,1,0,4.0,0,White-European,0,1,'United Kingdom',3.0,0
+0,0,1,0,0,0,1,0,1,0,5.0,1,Black,0,0,Ghana,3.0,0
+1,1,1,1,1,0,1,1,1,1,8.0,1,White-European,0,1,Australia,9.0,1
+1,1,1,1,1,1,1,0,1,1,8.0,1,White-European,1,0,'United States',9.0,1
+1,0,1,1,0,0,0,0,1,0,6.0,1,Asian,0,0,India,4.0,0
+0,0,1,0,1,1,1,1,0,1,11.0,1,Asian,0,0,India,6.0,0
+1,1,1,0,1,1,0,0,1,1,10.0,0,Asian,0,0,India,7.0,1
+1,0,0,0,1,0,0,1,0,1,6.0,0,White-European,0,0,'United Kingdom',4.0,0
+1,1,1,1,1,1,1,1,1,0,6.0,1,Asian,0,1,India,9.0,1
+0,0,1,0,0,0,0,0,0,1,4.0,1,Black,0,1,India,2.0,0
+0,1,1,1,1,1,0,0,0,1,4.0,1,White-European,0,0,Australia,6.0,0
+0,1,1,0,0,1,0,1,1,1,4.0,0,White-European,1,0,'United Kingdom',6.0,0
+0,0,0,0,1,1,1,0,1,0,5.0,1,Others,0,0,'United States',4.0,0
+1,0,1,0,1,1,1,0,0,1,10.0,0,White-European,0,0,Australia,6.0,0
+0,1,0,1,1,1,1,1,1,1,10.0,0,White-European,0,0,Australia,8.0,1
+0,1,1,1,1,1,1,1,1,1,5.0,0,Latino,1,0,Bhutan,9.0,1
+1,1,1,1,1,1,1,1,1,1,7.0,0,White-European,1,1,'United Kingdom',10.0,1
+1,0,0,0,1,0,1,0,0,1,7.0,0,White-European,1,1,Australia,4.0,0
+1,0,1,1,1,1,1,0,0,1,4.0,1,Latino,0,0,Brazil,7.0,1
+1,1,1,0,1,1,1,1,1,1,4.0,1,'South Asian',0,0,India,9.0,1
+0,0,1,0,1,0,1,0,0,0,4.0,0,'South Asian',0,0,India,3.0,0
